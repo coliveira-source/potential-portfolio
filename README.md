@@ -4,7 +4,7 @@ This is my personal portfolio website, showcasing my projects and skills.
 
 ## Usage
 
-You can view the website by visiting https://username.github.io/repository-name](https://github.com/coliveira-source/potential-portfolio
+You can view the website by visiting https://github.com/coliveira-source/potential-portfolio
 
 ## Setup
 
