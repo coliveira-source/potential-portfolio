@@ -4,7 +4,7 @@ This is my personal portfolio website, showcasing my projects and skills.
 
 ## Usage
 
-You can view the website by visiting https://github.com/coliveira-source/potential-portfolio
+You can view the website by visiting https://d362b438-7004-4865-a2a1-01abcb4dcbc8-00-ph1suoa6ipgk.janeway.replit.dev/
 
 ## Setup
 
